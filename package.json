@@ -1,0 +1,19 @@
+{
+  "name": "universalmusic",
+  "version": "1.0.0",
+  "description": "Vous êtes engagés par une filiale Universal studios pour créer l’API de la plateforme de soumission de maquettes par les artistes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotRebelle/NodeJsHitema.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NotRebelle/NodeJsHitema/issues"
+  },
+  "homepage": "https://github.com/NotRebelle/NodeJsHitema#readme"
+}
